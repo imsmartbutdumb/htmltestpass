@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Password Protected Webpage</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="lock.js"></script>
+  </head>
+  <body>
+    <form id="form1" action="index.html">
+      <p>Enter your password:</p>
+      <input type="password" name="password" value="deez">
+      <button type="submit">Submit</button>
+    </form>
+  </body>
+</html>
